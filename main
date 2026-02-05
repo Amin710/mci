@@ -1,2 +1,1 @@
-vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=dojman.global.ssl.fastly.net#@v2rayngvpn [1114ms]
-vless://0d30e81c-ee27-46dd-aa3d-7796da838b75@kirinet.global.ssl.fastly.net:443?encryption=none&type=ws&host=kirinet.global.ssl.fastly.net&path=/containers/fi&security=tls&fp=chrome&sni=kirinet.global.ssl.fastly.net&alpn=http/1.1#@v2rayngvpn [3622ms]
+vless://c33ce7c5-e373-452c-be50-da2c6adf74aa@cloud.nexun.ir:443?path=%2FceoWeb&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=seo.nexun.ir&fp=chrome&type=ws&allowInsecure=0&sni=seo.nexun.ir#@v2rayngvpn [886ms]
